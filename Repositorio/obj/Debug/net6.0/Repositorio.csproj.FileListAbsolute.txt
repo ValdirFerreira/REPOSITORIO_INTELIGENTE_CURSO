@@ -1,0 +1,34 @@
+C:\Users\valdir.silva\source\repos\Dominio\Repositorio\bin\Debug\net6.0\Repositorio.deps.json
+C:\Users\valdir.silva\source\repos\Dominio\Repositorio\bin\Debug\net6.0\Repositorio.dll
+C:\Users\valdir.silva\source\repos\Dominio\Repositorio\bin\Debug\net6.0\ref\Repositorio.dll
+C:\Users\valdir.silva\source\repos\Dominio\Repositorio\bin\Debug\net6.0\Repositorio.pdb
+C:\Users\valdir.silva\source\repos\Dominio\Repositorio\bin\Debug\net6.0\Dominio.dll
+C:\Users\valdir.silva\source\repos\Dominio\Repositorio\bin\Debug\net6.0\Dominio.pdb
+C:\Users\valdir.silva\source\repos\Dominio\Repositorio\obj\Debug\net6.0\Repositorio.csproj.AssemblyReference.cache
+C:\Users\valdir.silva\source\repos\Dominio\Repositorio\obj\Debug\net6.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valdir.silva\source\repos\Dominio\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfoInputs.cache
+C:\Users\valdir.silva\source\repos\Dominio\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfo.cs
+C:\Users\valdir.silva\source\repos\Dominio\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\valdir.silva\source\repos\Dominio\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CopyComplete
+C:\Users\valdir.silva\source\repos\Dominio\Repositorio\obj\Debug\net6.0\Repositorio.dll
+C:\Users\valdir.silva\source\repos\Dominio\Repositorio\obj\Debug\net6.0\ref\Repositorio.dll
+C:\Users\valdir.silva\source\repos\Dominio\Repositorio\obj\Debug\net6.0\Repositorio.pdb
+C:\Users\valdir.silva\source\repos\Dominio\Repositorio\bin\Debug\net6.0\Repositorio.runtimeconfig.json
+C:\Users\valdir.silva\source\repos\Dominio\Repositorio\obj\Debug\net6.0\Repositorio.genruntimeconfig.cache
+C:\Curso Repositorio Inteligente\NOVAVERSAO\Dominio\Repositorio\bin\Debug\net6.0\Repositorio.deps.json
+C:\Curso Repositorio Inteligente\NOVAVERSAO\Dominio\Repositorio\bin\Debug\net6.0\Repositorio.runtimeconfig.json
+C:\Curso Repositorio Inteligente\NOVAVERSAO\Dominio\Repositorio\bin\Debug\net6.0\Repositorio.dll
+C:\Curso Repositorio Inteligente\NOVAVERSAO\Dominio\Repositorio\bin\Debug\net6.0\ref\Repositorio.dll
+C:\Curso Repositorio Inteligente\NOVAVERSAO\Dominio\Repositorio\bin\Debug\net6.0\Repositorio.pdb
+C:\Curso Repositorio Inteligente\NOVAVERSAO\Dominio\Repositorio\bin\Debug\net6.0\Dominio.dll
+C:\Curso Repositorio Inteligente\NOVAVERSAO\Dominio\Repositorio\bin\Debug\net6.0\Dominio.pdb
+C:\Curso Repositorio Inteligente\NOVAVERSAO\Dominio\Repositorio\obj\Debug\net6.0\Repositorio.csproj.AssemblyReference.cache
+C:\Curso Repositorio Inteligente\NOVAVERSAO\Dominio\Repositorio\obj\Debug\net6.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Repositorio Inteligente\NOVAVERSAO\Dominio\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfoInputs.cache
+C:\Curso Repositorio Inteligente\NOVAVERSAO\Dominio\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfo.cs
+C:\Curso Repositorio Inteligente\NOVAVERSAO\Dominio\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CoreCompileInputs.cache
+C:\Curso Repositorio Inteligente\NOVAVERSAO\Dominio\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CopyComplete
+C:\Curso Repositorio Inteligente\NOVAVERSAO\Dominio\Repositorio\obj\Debug\net6.0\Repositorio.dll
+C:\Curso Repositorio Inteligente\NOVAVERSAO\Dominio\Repositorio\obj\Debug\net6.0\ref\Repositorio.dll
+C:\Curso Repositorio Inteligente\NOVAVERSAO\Dominio\Repositorio\obj\Debug\net6.0\Repositorio.pdb
+C:\Curso Repositorio Inteligente\NOVAVERSAO\Dominio\Repositorio\obj\Debug\net6.0\Repositorio.genruntimeconfig.cache

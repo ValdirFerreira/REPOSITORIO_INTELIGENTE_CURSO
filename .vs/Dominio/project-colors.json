@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7951a711-bdbb-45cc-a1b0-52cb0e958d74": {
+      "ProjectGuid": "7951a711-bdbb-45cc-a1b0-52cb0e958d74",
+      "DisplayName": "Dominio",
+      "ColorIndex": 0
+    },
+    "04e7a8dc-85c0-42c2-aa94-528429fb1eca": {
+      "ProjectGuid": "04e7a8dc-85c0-42c2-aa94-528429fb1eca",
+      "DisplayName": "Repositorio",
+      "ColorIndex": 1
+    },
+    "f93674a1-6d3d-4a68-a978-7f9f55f5c9e6": {
+      "ProjectGuid": "f93674a1-6d3d-4a68-a978-7f9f55f5c9e6",
+      "DisplayName": "ApiDevNetCore",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
